@@ -1,4 +1,14 @@
 {
+    "name": "geoffselby/puzzle-plain-preset",
+    "description": "A mostly blank slate for Jigsaw sites powered by Tailwind CSS",
+    "keywords": ["jigsaw","puzzle cli"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Geoff Selby",
+            "email": "geoff@geoffcodesthings.com"
+        }
+    ],
     "require": {
         "tightenco/jigsaw": "^1.3"
     }
